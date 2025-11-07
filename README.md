@@ -1,4 +1,4 @@
-# 100 BÀI CODE THIẾU NHI C++ 
+# 300 BÀI CODE THIẾU NHI C++ 
 
 ## Giới thiệu: 
 - Folder [Webcu](https://github.com/trgchinhh/baicodethieunhi/tree/main/Webcu) gồm 97/100 bài code thiếu nhi ở web 300 bài code thiếu nhi cũ
